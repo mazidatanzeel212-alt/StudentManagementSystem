@@ -1,4 +1,0 @@
-101|rahul kumar|21|computer science
-102|kumar|23|computer sci
-10|rahul kumar|22|computer science
-202|Test Student|20|computer science
